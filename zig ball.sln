@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{8FC81C19-728F-E566-B9D5-AEEFBD406E80}") = "zig ball", "Assembly-CSharp.csproj", "{B4E97CB6-F495-4C98-991E-95D48647F36C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4E97CB6-F495-4C98-991E-95D48647F36C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4E97CB6-F495-4C98-991E-95D48647F36C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4E97CB6-F495-4C98-991E-95D48647F36C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4E97CB6-F495-4C98-991E-95D48647F36C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
